@@ -2,7 +2,7 @@
 🌐 MERN Stack
 </h1>
 <p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
+MongoDB, Expressjs, React/React Native, Nodejs
 </p>
 
 <p align="center">
