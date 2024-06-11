@@ -1,5 +1,5 @@
 <h1 align="center">
-🌐 MERN Stack
+🌐 Software Engineer / MERN Stack / Mobile Application
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/React Native, Nodejs
