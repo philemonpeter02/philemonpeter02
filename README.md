@@ -4,7 +4,8 @@
 <p align="center">
 MongoDB, Expressjs, React/React Native, Nodejs
 </p>
- MERN is a fullstack implementation in MongoDB, Expressjs, React/Redux, Nodejs.
+><<p align="center">> MERN is a fullstack implementation in MongoDB, Expressjs, React/Redux, Nodejs.</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philemon-peter)
